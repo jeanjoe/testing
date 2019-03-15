@@ -1,1 +1,2 @@
-console.log("print me")
+const param = "Second line"
+console.log(param)
